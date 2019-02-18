@@ -1,0 +1,5 @@
+Install Wheel
+Install mysql connector
+Install mysqlclient
+Then 
+Install Flask-mysqldb 
